@@ -1,5 +1,4 @@
 # CTF Pickle Rick - Passo a passo do meu primeiro CTF do TryHackme
-Introdução
 Este repositório documenta passo a passo a minha jornada de resolução do CTF "Pickle Rick" na plataforma TryHackme. O objetivo é compartilhar meu aprendizado e experiência, detalhando os processos e comandos utilizados para completar o desafio.
 
 ## Descrição do Desafio
